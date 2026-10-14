@@ -1,0 +1,14 @@
+{
+  "MAE": 0.012339,
+  "RMSE": 0.024871,
+  "R2": 0.9899,
+  "MAPE": 9.29,
+  "Accuracy": 90.71,
+  "train_samples": 18969,
+  "test_samples": 3939,
+  "features": 57,
+  "window": 24,
+  "epochs_trained": 68,
+  "data_files": 1,
+  "total_samples": 26256
+}
